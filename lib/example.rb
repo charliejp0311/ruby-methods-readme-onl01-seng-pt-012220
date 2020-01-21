@@ -20,16 +20,7 @@ end
 greeting
 greeting
 
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
+
 
 
   
